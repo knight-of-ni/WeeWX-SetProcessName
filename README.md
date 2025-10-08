@@ -22,7 +22,7 @@ sudo apt install python3-setproctitle
 sudo dnf install setproctitle
 ```
 
-Then install the exension:
+**Use weectl to install the exension**
 ```
 sudo weectl extension install https://github.com/knight-of-ni/WeeWX-SetProcessName/archive/master.zip
 ```
