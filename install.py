@@ -13,7 +13,7 @@ class SetProcTitleInstaller(ExtensionInstaller):
         super(SetProcTitleInstaller, self).__init__(
             version="0.1",
             name='SetProcessName',
-            description='Set the weewx process name to a user specified value.',
+            description='Set the weewx process name to a user specified value',
             author="Andrew Bauer",
             author_email="zonexpertconsulting@outlook.com",
             prep_services='user.SetProcessName.SetProcessName',
