@@ -19,7 +19,7 @@ sudo apt install python3-setproctitle
 ```
 **DNF**
 ```
-sudo dnf install setproctitle
+sudo dnf install python3-setproctitle
 ```
 
 **Use weectl to install the exension**
